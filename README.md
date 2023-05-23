@@ -5,10 +5,10 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/solidity.svg" height="30" width="42" alt="solidity"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Solidity.svg" height="30" width="42" alt="solidity"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" height="30" width="42" alt="typescript logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="30" width="42" alt="python logo"  />
   <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/ethereum.svg" height="30" width="42" alt="eth logo"  />
   <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/hive_blockchain.svg" height="30" width="42" alt="github logo"  />
 </div>
