@@ -1,6 +1,3 @@
-###
-
-<img align="center" height="150" src=" https://cdn.discordapp.com/attachments/1088783495981191198/1110608382173388830/acda73ae23c899926cea5233c9a726fb.jpg "/>
 
 ###
 
