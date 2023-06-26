@@ -1,6 +1,6 @@
 ###
 
-<p align="center"><img src="https://cdn.discordapp.com/attachments/1088577094855950338/1122539220507037727/japanese-oni-demon-mask-monochrome-moewalls.com.gif" height="200" width="300"/></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/1088577094855950338/1122775277676797952/9c31a358222eb2cb6daa2d8bc1c5a5c9.gif" height="240" width="303"/></p>
 <div align="center">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Solidity.svg" height="30" width="42" alt="solidity"  />
