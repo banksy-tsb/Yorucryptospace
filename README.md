@@ -1,22 +1,18 @@
 ###
-<div align="justify">
+<br clear="both">
 
-<!-- Profile -->
-<p align="left"><strong><samp>「</samp></strong></p>
-  <p align="center">
-    <samp>
-      <b>
-        QQ all
-      <br>
-        I'm Zeroday, a blockchain shinobi and Solidity amaterasu. 
-      </b>
-      <br>
-<br>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Solidity.svg" height="30" width="42" alt="solidity"  />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" height="30" width="42" alt="typescript logo"  />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="30" width="42" alt="python logo"  />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" height="30" width="42" alt="github logo"  />
+<div align="left">
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeroday-v&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###  
+</div>
+
+###
+### Skills
+
+<a href="https://coffeescript.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/core/coffeescript.svg" alt="CoffeeScript" width="30" height="45" /></a> <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/core/typescript.svg" alt="Typescript" width="30" height="45" /></a>
+<a href="https://soliditylang.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/web3/solidity.svg" alt="Solidity" width="30" height="45" /></a> <a href="https://trufflesuite.com/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/web3/truffle.svg" alt="Truffle" width="30" height="45" /></a> </a> <a href="https://www.alchemy.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/web3/alchemy.svg" alt="Alchemy" width="30" height="45" /></a> <a href="https://ipfs.tech" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/web3/ipfs.svg" alt="IPFS" width="30" height="45" /></a> <a href="https://chain.link" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/web3/chainlink.svg" alt="ChainLink" width="30" height="45" /></a>
 
 
