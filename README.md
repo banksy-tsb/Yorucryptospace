@@ -3,8 +3,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=solidity" height="40" alt="solidity logo"  />
   <img width="12" />
-  <img src="https://github.com/file-icons/icons/blob/master/svg/Brainfuck.svg" height="40" alt="brainfuck logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
   <img width="12" />
 </div>
